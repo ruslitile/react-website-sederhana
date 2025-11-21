@@ -5,7 +5,7 @@ function Contact() {
         <div className="wrapper">
             <div className="footer">
                 <div className="footer-section">
-                    <h3>RumahRafif.</h3>
+                    <h3>Susantu.</h3>
                     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sint, culpa!</p>
                 </div>
                 <div className="footer-section">
